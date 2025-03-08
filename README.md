@@ -1,7 +1,3 @@
-Hier ist der Inhalt für Deine **README.md**:
-
----
-
 # Datei-Organizer Skript
 
 Dieses Python-Skript organisiert Dateien aus einem definierten Basisverzeichnis, indem es sie basierend auf ihrer Dateiendung in verschiedene Unterordner verschiebt. Es wurde speziell entwickelt, um den Ordner `dateien` (relativ zum Skript) aufzuräumen, indem Dateien in die Kategorien Bilder, Dokumente, Code und Sonstiges einsortiert werden.
